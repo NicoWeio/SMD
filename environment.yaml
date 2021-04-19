@@ -1,0 +1,20 @@
+---
+name: smd
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.8
+  - matplotlib=3
+  - scipy=1.6
+  - pandas=1
+  - scikit-learn=0.24
+  - ipython=7
+  - jupyterlab
+  - jupyter
+  - notebook
+  - flake8
+  - pytest
+  - pytables
+  - tqdm
+  - click
