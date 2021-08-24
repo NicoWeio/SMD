@@ -1,6 +1,6 @@
 ## (a) Numerische Grundlagen
 
-### Wie werden die einzelnen Zahlen Typen im Computer gespeichert?
+### Wie werden die einzelnen Zahlentypen im Computer gespeichert?
 
 ### Wie ist der Fehler von zweistelligen Operationen begrenzt?
 
@@ -8,7 +8,7 @@
 
 ### Was ist der Unterschied zwischen Stabilität und Kondition?
 
-### Auf was muss geachtet werden um eine Funktion stabil zu machen?
+### Auf was muss geachtet werden, um eine Funktion stabil zu machen?
 
 ## (b) Eindimensionale Verteilungen
 
@@ -34,17 +34,17 @@
 
 ### Warum spricht man von Pseudo-Zufallszahlen-Generatoren?
 
-### Welche Methoden gibt es um aus gleichverteilten Zufallszahlen, Zufallszahlen zu erzeugen, die einer bestimmten Verteilung folgen? Vergleichen sie diese.
+### Welche Methoden gibt es, um aus gleichverteilten Zufallszahlen Zufallszahlen zu erzeugen, die einer bestimmten Verteilung folgen? Vergleichen Sie diese.
 
-### Welche Methoden gibt es um normalverteilte Zufallszahlen zu erzeugen?
+### Welche Methoden gibt es, um normalverteilte Zufallszahlen zu erzeugen?
 
-### Welche Methoden gibt es um poisson-verteilte Zufallszahlen zu erzeugen?
+### Welche Methoden gibt es, um poisson-verteilte Zufallszahlen zu erzeugen?
 
-### Welche Methoden gibt es um Chi-Quadrat-verteilte Zufallszahlen zu erzeugen?
+### Welche Methoden gibt es, um Chi-Quadrat-verteilte Zufallszahlen zu erzeugen?
 
 ## (e) Data-Mining
 
-### Was sind die, in der Vorlesung vorgestellten, Schritte eines KDD-Prozesses?
+### Was sind die (in der Vorlesung vorgestellten) Schritte eines KDD-Prozesses?
 
 ### Wie fließt Hintergrundwissen in den KDD-Prozess mit ein?
 
@@ -52,7 +52,7 @@
 
 ### Wann und wieso bedarf es einer Attributswahl?
 
-### Welche Methoden zur Attributswahl kennen Sie, wie funktionieren Sie?
+### Welche Methoden zur Attributswahl kennen Sie; wie funktionieren sie?
 
 ### Wie funktioniert die LDA und welche Bedingung gilt für die gesuchte Trennung?
 
@@ -68,9 +68,9 @@
 
 ### Was ist Clustering? Worin unterscheiden sich die verschiedenen Arten des Clusterings?
 
-### Wieso ist es sinnvoll Lernverfahren zu validieren?
+### Wieso ist es sinnvoll, Lernverfahren zu validieren?
 
-### Wie funktioniert die Naive-Bayes-Klassifikation und was ist die Laplace Korrektur?
+### Wie funktioniert die Naive-Bayes-Klassifikation und was ist die Laplace-Korrektur?
 
 ### Wie funktioniert ein Entscheidungsbaum?
 
